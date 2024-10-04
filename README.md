@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Women Empowerment App**
 
-- 🌱 I’m currently learning **Java XML**
+- 🌱 I’m currently learning **Android App Development**
 
 - 💬 Ask me about **Java XML**
 
