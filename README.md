@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nawsheen Salsabeel</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Coder, Who is currently  working on Building Apps </h3>
 <img align="right" alt="Coding" width="400" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawsheen22&label=Profile%20views&color=0e75b6&style=flat" alt="nawsheen22" /> </p>
