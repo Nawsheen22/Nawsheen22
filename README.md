@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Android App Development**
 
-- 💬 Ask me about **Java XML**
+- 💬 Ask me about ** Python Java XML**
 
 - 📫 How to reach me **nawsheensalsabeel18@gmail.com**
 
