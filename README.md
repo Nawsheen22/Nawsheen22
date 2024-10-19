@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/nawsheen_23" target="blank"><img src="https://img.shields.io/twitter/follow/nawsheen_23?logo=twitter&style=for-the-badge" alt="nawsheen_23" /></a> </p>
 
-- 🔭 I’m currently working on **Women Empowerment App**
+
 
 - 🌱 I’m currently learning **Android App Development**
 
