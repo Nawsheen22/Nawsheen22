@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nawsheen Salsabeel</h1>
-<h3 align="center">A passionate Coder, Who is currently  working on Building Apps </h3>
+<h3 align="center">A passionate Coder, Who is currently  working on Data Science Skills </h3>
 <img align="right" alt="Coding" width="400" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawsheen22&label=Profile%20views&color=0e75b6&style=flat" alt="nawsheen22" /> </p>
@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently learning **Tools Required for Database Managmnet**
 
-- 💬 Ask me about ** Python Java XML Kotlin JetPack Composer**
+- 💬 Ask me about ** Python SQL**
 
 - 📫 How to reach me **nawsheensalsabeel18@gmail.com**
 
