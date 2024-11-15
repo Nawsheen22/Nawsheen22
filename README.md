@@ -9,7 +9,7 @@
 
 
 - 🌱 I’m a data science enthusiast, always eager to learn more about machine learning and analytics.
-- Python is my key language
+- Python is my key language  🐍 
 
 
 - 📫 How to reach me **nawsheensalsabeel18@gmail.com**
