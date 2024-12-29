@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m a data science enthusiast, always eager to learn more about machine learning and analytics.
+- 🌱 I’m a data science enthusiast, always eager to learn more about machine learning and Ai.
 - Python is my key language  🐍 
 
 
