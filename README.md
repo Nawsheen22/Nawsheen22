@@ -26,7 +26,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nawsheen22&" alt="nawsheen22" /></p>
 
 <!-- Add the Snake animation here -->
+<h3 align="center">Snake Animation 🐍</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/snake.svg" alt="Snake animation" />
 </p>
+
 
